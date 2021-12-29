@@ -1,0 +1,7 @@
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\001_HelloWorld\obj\Debug\001_HelloWorld.pdb
