@@ -1,0 +1,7 @@
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\bin\Debug\003_Check.exe.config
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\bin\Debug\003_Check.exe
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\bin\Debug\003_Check.pdb
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\obj\Debug\003_Check.csproj.AssemblyReference.cache
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\obj\Debug\003_Check.csproj.CoreCompileInputs.cache
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\obj\Debug\003_Check.exe
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\003_Check\obj\Debug\003_Check.pdb
