@@ -1,0 +1,7 @@
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\bin\Debug\CheckPoint03.exe.config
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\bin\Debug\CheckPoint03.exe
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\bin\Debug\CheckPoint03.pdb
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\obj\Debug\CheckPoint03.csproj.AssemblyReference.cache
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\obj\Debug\CheckPoint03.csproj.CoreCompileInputs.cache
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\obj\Debug\CheckPoint03.exe
+C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\CheckPoint03\obj\Debug\CheckPoint03.pdb

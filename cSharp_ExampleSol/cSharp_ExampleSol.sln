@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint02", "CheckPoint0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Check", "008_Check\008_Check.csproj", "{102F84E3-EC5C-4AC8-91F2-3DC24DEBE4C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Check", "009_Check\009_Check.csproj", "{1343EFC0-039E-4BC9-8CE7-1584C6252A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint03", "CheckPoint03\CheckPoint03.csproj", "{53717952-C1C9-4C27-A31C-251DD78FD068}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{102F84E3-EC5C-4AC8-91F2-3DC24DEBE4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{102F84E3-EC5C-4AC8-91F2-3DC24DEBE4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{102F84E3-EC5C-4AC8-91F2-3DC24DEBE4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1343EFC0-039E-4BC9-8CE7-1584C6252A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1343EFC0-039E-4BC9-8CE7-1584C6252A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1343EFC0-039E-4BC9-8CE7-1584C6252A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1343EFC0-039E-4BC9-8CE7-1584C6252A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53717952-C1C9-4C27-A31C-251DD78FD068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53717952-C1C9-4C27-A31C-251DD78FD068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53717952-C1C9-4C27-A31C-251DD78FD068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53717952-C1C9-4C27-A31C-251DD78FD068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CheckPoint01
+namespace CheckPoint02
 {
     class Program
     {
