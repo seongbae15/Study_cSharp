@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint03", "CheckPoint0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Check", "010_Check\010_Check.csproj", "{3B903A63-32DC-4C9D-BCC9-B5B59F28AFDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint04", "CheckPoint04\CheckPoint04.csproj", "{27AFDE44-F40C-4E7A-88B7-8B029E8965CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3B903A63-32DC-4C9D-BCC9-B5B59F28AFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B903A63-32DC-4C9D-BCC9-B5B59F28AFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B903A63-32DC-4C9D-BCC9-B5B59F28AFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AFDE44-F40C-4E7A-88B7-8B029E8965CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AFDE44-F40C-4E7A-88B7-8B029E8965CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AFDE44-F40C-4E7A-88B7-8B029E8965CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AFDE44-F40C-4E7A-88B7-8B029E8965CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
