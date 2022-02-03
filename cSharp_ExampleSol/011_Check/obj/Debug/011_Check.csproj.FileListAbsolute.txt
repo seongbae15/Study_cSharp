@@ -5,3 +5,10 @@ C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\011_Check\obj\D
 C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.csproj.CoreCompileInputs.cache
 C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.exe
 C:\Users\SB15\Desktop\StudyFolder\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.pdb
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\bin\Debug\011_Check.exe.config
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\bin\Debug\011_Check.exe
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\bin\Debug\011_Check.pdb
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.csproj.AssemblyReference.cache
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.csproj.CoreCompileInputs.cache
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.exe
+C:\Users\SB15\Desktop\StudySpace\Study_cSharp\cSharp_ExampleSol\011_Check\obj\Debug\011_Check.pdb

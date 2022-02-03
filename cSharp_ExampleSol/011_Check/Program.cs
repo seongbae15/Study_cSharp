@@ -51,10 +51,13 @@ namespace _011_Check
     class CStManager {
         private CStudent[] students;
 
-        public void RegisterStudents(int count)
+        public CStManager(int count)
         {
             students = new CStudent[count];
-            for (int i=0;i< count; i++)
+        }
+        public void RegisterStudents()
+        {
+            for (int i=0;i< students.Length; i++)
             {
                 students[i] = new CStudent();
                 students[i].InputID();
@@ -105,8 +108,8 @@ namespace _011_Check
         static void Main(string[] args)
         {
             const int MAX = 3;
-            CStManager stManager = new CStManager();
-            stManager.RegisterStudents(MAX);
+            CStManager stManager = new CStManager(MAX);
+            stManager.RegisterStudents();
             Console.Clear();
 
             int inputSel = 0;
